@@ -7,6 +7,12 @@
   <title></title>
 </head>
 <body>
-  <h1>Blog Home!!</h1>
+  <!-- You always need to open and close a for loop with brackers -->
+  {% for post in posts %}
+    <!-- to access variables you need to use double brackets -->
+    <h1> {{ post.title }}</h1>
+    <p>By {{ post.author }} on {{ post.date_posted }}</p>
+    <p>{{ post.content }}</p>
+  {% endfor %}
 </body>
 </html>
