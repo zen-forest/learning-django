@@ -2,6 +2,8 @@
 
 Learning from this resource: https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
 
+https://www.youtube.com/watch?v=qDwdMDQ8oX4&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=4
+
 # Generated structure
 
 ## Manage.py
@@ -21,3 +23,4 @@ Learning from this resource: https://www.youtube.com/watch?v=UmljXZIypDc&list=PL
 
 ## wsgi.py
 * How Django and web server communicates 
+
